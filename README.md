@@ -1,8 +1,13 @@
 <h1>Hi, I'm Skyler! <br/>
 
+<h2>📃 About Me</h2>
+<body> I recently graduated from Western Governor's University with a Bachelor of Science in Cybersecurity and Information Assurance. I will be documenting my journey of my growth as a Cybersecurity professional by continuously updating projects I do and my experience as a newbie in this field.  </body>
+
+<b>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Conducting a security assessment</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
