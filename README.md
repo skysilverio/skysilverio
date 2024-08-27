@@ -1,13 +1,28 @@
 <h1>Hi, I'm Skyler! <br/>
 
-<h2>📃 About Me</h2>
-<body> I recently graduated from Western Governor's University with a Bachelor of Science in Cybersecurity and Information Assurance. I will be documenting my journey of my growth as a Cybersecurity professional by continuously updating projects I do and my experience as a newbie in this field.  </body>
+<h2>📃 About Me:</h2>
 
-<b>
+<body> I am a recent graduate from Western Governor's University with a Bachelor of Science degree in Cybersecurity and Information Assurance. I will be documenting my journey as a Cybersecurity professional and my experience as a newbie in this field.</body>
+
+<h2>📈 Certificates: </h2>
+
+- <b> CompTIA </b>
+  - Project+
+  - A+
+  - Network+
+  - Security+
+  - CySA+
+  - Pentest+
+- <b> Axelos </b>
+  - ITIL Foundations 4
+- <b> ISC2 </b>
+  - Systems Security Certified Practitioner (SSCP)
+- <b> ASQ </b>
+  - Six Sigma Yellow Belt
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Conducting a security assessment</b>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -26,15 +41,3 @@
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
