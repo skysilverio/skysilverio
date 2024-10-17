@@ -29,5 +29,7 @@
 - <b>Active Directory</b>
   - [Basic Active Directory with PowerShell Bulk User Creation](https://github.com/skysilverio/activedirectory)
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h2>⌨️ Scripting Projects:</h2>
 
+- <b>PDF Searcher</b>
+  - [Keyword Search in List of PDFs](https://www.youtube.com/watch?v=3mLxiIZncVY)
