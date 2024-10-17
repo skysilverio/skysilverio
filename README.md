@@ -25,11 +25,11 @@
 - <b>Capstone Project</b>
   - [Conducting a Security Assessment](https://github.com/skysilverio/capstone/)
 - <b>Blue Team Lab Environment</b>
-  - [Introduction](https://github.com/skysilverio/blueteamlab) <b><i>
+  - [Introduction](https://github.com/skysilverio/blueteamlab)
 - <b>Active Directory</b>
   - [Basic Active Directory with PowerShell Bulk User Creation](https://github.com/skysilverio/activedirectory)
 
 <h2>⌨️ Scripting Projects:</h2>
 
 - <b>PDF Searcher</b>
-  - [Keyword Search in List of PDFs](https://www.youtube.com/watch?v=3mLxiIZncVY)
+  - [Keyword Search in List of PDFs](https://github.com/skysilverio/PDFsearcher)
