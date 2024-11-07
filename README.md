@@ -25,7 +25,7 @@
 - <b>Capstone Project</b>
   - [Conducting a Security Assessment](https://github.com/skysilverio/capstone/)
 - <b>Blue Team Lab Environment</b>
-  - [Introduction](https://github.com/skysilverio/blueteamlab)
+  - [Overview](https://github.com/skysilverio/blueteamlab)
 - <b>Active Directory</b>
   - [Basic Active Directory with PowerShell Bulk User Creation](https://github.com/skysilverio/activedirectory)
 
