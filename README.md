@@ -24,10 +24,16 @@
 
 - <b>Capstone Project</b>
   - [Conducting a Security Assessment](https://github.com/skysilverio/capstone/)
-- <b>Blue Team Lab Environment</b>
+- <b>Blue Team Lab Environment (VirtualBox)</b>
   - [Overview](https://github.com/skysilverio/blueteamlab)
 - <b>Active Directory</b>
   - [Basic Active Directory with PowerShell Bulk User Creation](https://github.com/skysilverio/activedirectory)
+- <b>Blue Team Lab Environment (Proxmox)...Coming Soon</b>
+
+<h2>💾 IT Projects:</h2>
+
+- <b>Managing Tickets</b>
+  - [Using FreshDesk to Solve Common Tickets]
 
 <h2>⌨️ Scripting Projects:</h2>
 
