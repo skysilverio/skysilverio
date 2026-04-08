@@ -2,7 +2,11 @@
 
 <h2>📃 About Me:</h2>
 
-<body> I am a recent graduate from Western Governor's University with a Bachelor of Science degree in Cybersecurity and Information Assurance. I will be documenting my journey as a Cybersecurity professional and my experience as a newbie in this field.</body>
+<body> I'm an IT professional with hands-on experience in help desk support, system administration, and cybersecurity fundamentals. I enjoy troubleshooting complex technical issues, improving processes, and building lab environments to strengthen my skills.
+
+Currently focused on growing in IT support and transitioning deeper into cybersecurity.
+
+---</body>
 
 <h2>📈 Certificates: </h2>
 
