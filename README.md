@@ -6,7 +6,7 @@
 
 Currently focused on growing in IT support and transitioning deeper into cybersecurity.
 
----</body>
+</body>
 
 <h2>📈 Certificates: </h2>
 
