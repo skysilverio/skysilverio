@@ -33,6 +33,8 @@ Currently focused on growing in IT support and transitioning deeper into cyberse
 - <b>Active Directory</b>
   - [Basic Active Directory with PowerShell Bulk User Creation](https://github.com/skysilverio/activedirectory)
 - <b>Blue Team Lab Environment (Proxmox)...Coming Soon</b>
+- <b>File Integrity Monitor</b>
+  - [Real-Time File Integrity Monitor (FIM)](https://github.com/skysilverio/fileintegritymonitor)
 
 <h2>💾 IT Projects:</h2>
 
@@ -43,3 +45,5 @@ Currently focused on growing in IT support and transitioning deeper into cyberse
 
 - <b>PDF Searcher</b>
   - [Keyword Search in List of PDFs](https://github.com/skysilverio/PDFsearcher)
+- <b>Keylogger</b>
+  - [Basic Keylogger](https://github.com/skysilverio/basickeylogger)
