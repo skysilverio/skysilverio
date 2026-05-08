@@ -35,6 +35,8 @@ Currently focused on growing in IT support and transitioning deeper into cyberse
 - <b>Blue Team Lab Environment (Proxmox)...Coming Soon</b>
 - <b>File Integrity Monitor</b>
   - [Real-Time File Integrity Monitor (FIM)](https://github.com/skysilverio/fileintegritymonitor)
+- <b>C2 Server</b>
+  - [Phase 1 - Core Engine](https://github.com/skysilverio/c2server-agent)
 
 <h2>💾 IT Projects:</h2>
 
